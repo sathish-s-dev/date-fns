@@ -1,9 +1,9 @@
 {
-	"name": "@sathishs007s/date-fns",
+	"name": "@sathish/date-fns",
 	"version": "1.0.0",
 	"description": "The package to convert date to readable format",
 	"main": "index.js",
-  "type": "module",
+	"type": "module",
 	"scripts": {
 		"dev": "tsc -w"
 	},
